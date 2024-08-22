@@ -5,9 +5,9 @@ from telethon.errors import FloodWaitError, UserPrivacyRestrictedError, UserAlre
 import asyncio
 
 
-api_id = "27287961"
-api_hash = "c3c18a87213d2a85f9d6aa67900422ae"
-phone_number = "+2349035551687"
+api_id = ""
+api_hash = ""
+phone_number = ""
 
 client = TelegramClient('session_name', api_id, api_hash)
 
